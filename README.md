@@ -1,5 +1,5 @@
 # pong-game
 a simple pong game made with python turtle
 
-unfortunately most online python IDEs can't install tkinter, a python library that is need inorder to display turtle 
-you'll will need to git clone the repo
+unfortunately I can't an online python IDE that will install tkinter, a python library that is required to display turtle 
+you'll have to git clone the repo
